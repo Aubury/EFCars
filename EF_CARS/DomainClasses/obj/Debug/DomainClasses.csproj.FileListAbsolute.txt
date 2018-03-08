@@ -1,0 +1,10 @@
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DomainClasses\bin\Debug\DomainClasses.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DomainClasses\bin\Debug\DomainClasses.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DomainClasses\obj\Debug\DomainClasses.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DomainClasses\obj\Debug\DomainClasses.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DomainClasses\bin\Debug\DomainClasses.dll.config
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DomainClasses\bin\Debug\EntityFramework.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DomainClasses\bin\Debug\EntityFramework.SqlServer.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DomainClasses\bin\Debug\EntityFramework.xml
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DomainClasses\bin\Debug\EntityFramework.SqlServer.xml
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DomainClasses\obj\Debug\DomainClasses.csprojResolveAssemblyReference.cache

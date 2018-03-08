@@ -1,0 +1,14 @@
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\bin\Debug\EF_CARS.exe.config
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\bin\Debug\EF_CARS.exe
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\bin\Debug\EF_CARS.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\obj\Debug\EF_CARS.csprojResolveAssemblyReference.cache
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\obj\Debug\EF_CARS.exe
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\obj\Debug\EF_CARS.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\bin\Debug\DataModel.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\bin\Debug\DomainClasses.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\bin\Debug\EntityFramework.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\bin\Debug\EntityFramework.SqlServer.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\bin\Debug\DataModel.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\bin\Debug\DomainClasses.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\bin\Debug\EntityFramework.xml
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\EF_CARS\bin\Debug\EntityFramework.SqlServer.xml

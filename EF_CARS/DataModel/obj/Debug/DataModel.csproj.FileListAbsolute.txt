@@ -1,0 +1,14 @@
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\bin\Debug\DataModel.dll.config
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\bin\Debug\DataModel.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\bin\Debug\DataModel.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\bin\Debug\DomainClasses.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\bin\Debug\EntityFramework.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\bin\Debug\DomainClasses.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\bin\Debug\EntityFramework.xml
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\obj\Debug\DataModel.dll
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\obj\Debug\DataModel.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\obj\Debug\DataModel.Migrations.Initial.resources
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\3_Урок\EF_CARS\DataModel\obj\Debug\DataModel.csproj.GenerateResource.Cache
